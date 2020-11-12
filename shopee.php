@@ -11,5 +11,5 @@ $link = trim(fgets(STDIN));
 sleep(3);
 echo "[+]Menunggu Flash Sale Dimulai...\n";
 sleep(5);
-echo "=> Nama Barang : Poco X3 NFC (6+64GB) Snapdragon 732G Flash Sale Spesial 11 11\n=> Status : Berhasil \n"
+echo "=> Nama Barang : Apple iPhone XR 64GB Flash Sale Spesial 11 11\n=> Status : Gagal stok telah habis \n"
 ?>
